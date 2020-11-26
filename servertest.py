@@ -5,8 +5,8 @@ import sqlite3
 import time
 import numpy as np
 import zmq
-
-
+dfdfdgdgggffg
+dggrrhgrhrgg
 tijd = time.ctime()
 situatie =""
 db = sqlite3.connect("database.db")
